@@ -10,6 +10,7 @@ build/
 *.log
 .claude/
 .cc-workbench/
+data/
 轨迹/
 录屏/
 视频/
